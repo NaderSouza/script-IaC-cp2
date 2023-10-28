@@ -129,7 +129,7 @@ module "compute" {
 
 11. Criar o pipeline de **Apply** - Crie uma pasta **.github/workflows** e dentro dela crie o arquivo **pipe.yaml**
 
-![pipe](/images/pipe.png)
+
 
 12. Coloque o código do **Pipeline Apply** dessa forma:
 

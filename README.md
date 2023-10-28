@@ -20,7 +20,7 @@ git clone https://github.com/NaderSouza/app-notifier.git
 git checkout - b develop 
 ```
 
-04. Entrar na **AWS** e dar start o **LAB** e pegar as credencias e colocar no GitHub secrets 
+04. Entrar na **AWS** e dar start o **LAB** e pegar as credencias e colocar no **GitHub Secrets**
 
 ![secrets](/images/secret.png)
 

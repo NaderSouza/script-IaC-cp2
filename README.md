@@ -17,10 +17,10 @@ git clone https://github.com/NaderSouza/app-notifier.git
 03. Crie a **Branch** develop
 
 ```
-git checkout - b develop 
+git checkout -b develop 
 ```
 
-04. Entrar na **AWS** e dar start o **LAB** e pegar as credencias e colocar no **GitHub Secrets**
+04. Entrar na **AWS** e dar start o **LAB** e pegar as credencias e colocar no **GitHub Secrets** e autorizar o workflows no **Actions**
 
 ![secrets](/images/secret.png)
 
